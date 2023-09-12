@@ -1,0 +1,27 @@
+.header{
+    font-size: 23px;
+    margin-top: 0px;
+    width: 100%;
+    color: white;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+button{
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+.status, .detection{
+    font-size: 18px;
+}
+canvas{
+    border-radius: 10px;
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px black;
+    margin-top: 60px;
+}
+label{
+    color: white;
+}
